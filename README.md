@@ -4,4 +4,4 @@ Various tools used in work, constantly updated with the life of a corporate empl
 
 some write by myself, and some reference from others site 
 
-[黑暗執行緒(https://blog.darkthread.net)](https://blog.darkthread.net/)
+* [黑暗執行緒 (https://blog.darkthread.net)](https://blog.darkthread.net/)
