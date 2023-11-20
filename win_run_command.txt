@@ -1,0 +1,4 @@
+powershell.exe	
+cmd.exe	
+control	control pannel
+devmgmt.msc	device manager
